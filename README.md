@@ -46,7 +46,7 @@ mkdir -p ~/ros2_ws/src
 cd ~/ros2_ws/src
 
 # Clone this repository
-git clone https://github.com/username/ros-detectron2-nav.git
+git clone https://github.com/facebookresearch/detectron2/blob/main/MODEL_ZOO.md
 
 # Build the workspace
 cd ~/ros2_ws
