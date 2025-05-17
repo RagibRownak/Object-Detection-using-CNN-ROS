@@ -14,6 +14,7 @@ for a high-quality demo ge<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 8
 
 
 ![Screenshot from 2025-05-09 00-06-23](https://github.com/user-attachments/assets/f0a5350d-0530-4895-beaa-d22f16f87f4a)
+![Screenshot from 2025-05-09 00-08-53](https://github.com/user-attachments/assets/e1823d0d-8dda-463f-b1c1-2901a8d9d2c3)
 ![Screenshot from 2025-05-10 18-38-52](https://github.com/user-attachments/assets/7ca357da-1c7f-4f8c-a766-b364cf6a0be2)
 
 
